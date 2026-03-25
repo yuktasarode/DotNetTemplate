@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "You",
+  "classifications": ["WebAPI", "FullStack"],
+  "identity": "MyCompany.FullStack.Template",
+  "name": "Full Stack Starter Template",
+  "shortName": "fullstack",
+  "sourceName": "backend",
+  "preferNameDirectory": true
+}
