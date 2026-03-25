@@ -17,3 +17,5 @@ dotnet new install .
 
 dotnet new list
 dotnet new uninstall <template name>
+
+dotnet new fullstack -n backend
